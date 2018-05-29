@@ -70,6 +70,27 @@
   font-weight: bold;
 }
 
-.header-img{
+img{
+  max-width:300px;
+  border:dotted 2px black;
+  margin:0px 10px 5px 10px;
+}
+
+.home-content{
   width:68%;
+}
+
+.home-content p{
+  font-family: sans-serif;
+  font-size:14px;
+  margin:0px;
+  padding:0px;
+}
+
+.mars-img{
+  float:left;
+}
+
+.tribe-img{
+  float:right;
 }
