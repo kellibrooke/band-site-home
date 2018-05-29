@@ -4,6 +4,7 @@
   padding:5px;
   border-radius: 10px;
   float:right;
+  margin-top:15px;
 }
 
 .show-item{
@@ -19,6 +20,14 @@
   font-weight: bold;
 }
 
+.line1-show{
+  font-weight: bold;
+}
+
+.line2-show{
+  font-style: italic;
+}
+
 .header-nav{
   text-align: center;
 }
@@ -26,6 +35,21 @@
   font-family: fantasy;
   font-weight:bold;
   font-size: 60px;
+  margin-bottom:0px;
+}
+
+.header-nav p{
+  margin-top:-30px;
+}
+
+.header-nav a{
+  color:black;
+  text-decoration: none;
+  font-family: monospace;
+}
+
+.header-nav a:hover{
+  font-weight: bold;
 }
 
 .header-img{
