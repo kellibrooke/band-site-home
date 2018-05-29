@@ -4,7 +4,7 @@
 }
 
 .list-title{
-  font-family: monospace;
+  font-family: fantasy;
   font-weight: 100;
   margin-bottom: -11px;
   text-shadow: 2px 2px #fbefd3;
@@ -28,12 +28,11 @@
 }
 
 .show-date{
-  font-family: fantasy;
-  font-weight: bold;
+  font-family: monospace;
 }
 
 .line1-show{
-  font-weight: 600;
+  font-weight: 100;
   font-size:110%;
   text-shadow: 2px 2px black;
   font-family: monospace;
@@ -41,7 +40,7 @@
 
 .line2-show{
   font-style: italic;
-  font-family: sans-serif;
+  font-family: fantasy;
   font-size: 12px;
   text-shadow: 1px 1px black;
 }
